@@ -1,9 +1,8 @@
 Hola mundo
 Editando para subir desde el master
-<<<<<<< HEAD
+Editando para subir desde rama bootcamp de github
+Subiendo desde rama bootcamp
 Editando para subir desde rama bootcamp de github
 Subiendo desde rama bootcamp.
 Subiendo desde master para generar conflictos
-=======
 Editando para subir desde rama bootcamp de github
->>>>>>> 448f095af80d9cd427cff1ae619a9bd50ef53711
